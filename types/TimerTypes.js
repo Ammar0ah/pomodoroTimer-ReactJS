@@ -1,0 +1,8 @@
+export const TIMER_REST_ROUND = "Timer Rest"
+export const TIMER_TRAIN = "Timer Train"
+export const TIMER_REST_SESSION = "Rest Session"
+export const TIMIER_Next_SESSION = "Next Session"
+export const TIMER_Next_ROUND = "Next Round"
+export const GET_SESSIONS = "GET_SESSIONS"
+export const ADD_DATA = "ADD_DATA"
+export const TIMER_FINISHED_SESSION = "Timer_Finished_session"
